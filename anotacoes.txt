@@ -1,0 +1,7 @@
+npm init
+npm install --save express express-graphql graphql lodash
+
+node server.js
+
+Para ver:
+localhost:4000/graphql
